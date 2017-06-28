@@ -1,0 +1,7 @@
+Jupyter
+Ipython
+pandas == 0.20.2
+numpy == 1.12.1
+scikit-learn == 0.18.1
+seaborn == 0.7.1
+matplotlib == 2.0.2

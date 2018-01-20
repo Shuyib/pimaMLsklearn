@@ -5,7 +5,7 @@ Begin by reviewing the package requirements in requirements.txt
 
 Train - test split accuracy with SVM(Support Vector Classifier) 0.77
 
-Train - test split accuracy with Random Forest Classifier 0.76
+Train - test split accuracy with Random Forest Classifier 0.79
 
 Accuracy mean cross-validation score: 0.83 scoring "roc_auc" for Random forest Classifier
 Accuracy mean cross-validation score: 0.69 scoring "roc_auc" for Support Vector Classfier
